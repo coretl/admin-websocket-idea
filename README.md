@@ -5,3 +5,8 @@ Requirements:
 * python2.7
 * ws4py
 
+To use:
+* ./admin_webserver.py
+* firefox localhost:8081
+* wait a few seconds for websocket to connect
+* press some buttons

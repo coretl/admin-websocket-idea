@@ -10,3 +10,4 @@ To use:
 * firefox localhost:8081
 * wait a few seconds for websocket to connect
 * press some buttons
+
